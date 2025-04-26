@@ -1,0 +1,7 @@
+Servers        Ports           IPs
+
+WebServer,       80,         192.168.1.10
+DBServer,        3306,       192.168.1.20
+MailServer,      25,         192.168.1.30
+BackupServer,    22,         192.168.1.40
+AuthServer,      443,        192.168.1.50
