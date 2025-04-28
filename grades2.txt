@@ -1,0 +1,6 @@
+Ali    , 80
+Amal   , 70
+Arwa   , 90
+Anas   , 80
+Salwa  , 90
+Azza , 100
